@@ -4,20 +4,19 @@
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
-    <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/OfficialYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/JerryMusicBot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/xDorEki"> Support Channel </a> •
+    <a href="https://t.me/TheSimpSquad"> Support Chat </a> 
 </p>
 <p align="center">
    <a href="https://www.buymeacoffee.com/notreallysy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
     
-# Yukki Music Bot
+# Jerry Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
-Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
+Read Docs for Detailed Description and Setup Guide on deploying Bot.
 
 > Click on buttons to expand!
 <details>
@@ -64,22 +63,20 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 <summary><b>🔗 Deploy to VPS</b></summary>
 <br>
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+> Checkout Docs for Detailed Explanation on VPS Deploy
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ pip3 install -U -r requirements.txt
-shikhar@MacBook~ $ cp sample.env .env
+xDmeteorite@MacBook~ $ git clone https://github.com/xDmeteorite/JerryMusicBot
+xDmeteorite@MacBook~ $ cd JerryMusicBot
+xDmeteorite@MacBook~ $ pip3 install -U -r requirements.txt
+xDmeteorite@MacBook~ $ cp sample.env .env
 ```
 > Edit .env with your values and then start bot with
 ```console
-shikhar@MacBook~ $ bash start
+xDmeteorite@MacBook~ $ bash start
 ```
 
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/OfficialYukki/2275)
-</details>
 
 ## Config Vars
 
