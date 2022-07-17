@@ -1,13 +1,13 @@
 {
-  "name": "Yukki Music Bot",
+  "name": "Jerry Music Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "Yukki",
-  "YukkiMusicBot",
+  "Jerry",
+  "JerryMusicBot",
   "telegram-bot",
   "pyrogram"
   ],
@@ -120,7 +120,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+      "value": "https://github.com/xDmeteorite/JerryMusicBot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
