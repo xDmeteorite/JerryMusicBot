@@ -3,10 +3,10 @@ aiofiles
 asyncio
 ffmpeg-python
 pillow
-pyrogram==1.4.12
+pyrogram==1.4.16
 hachoir
 lyricsgenius
-py-tgcalls==0.8.5
+py-tgcalls==0.8.6
 wget
 python-dotenv
 youtube-search-python
@@ -17,7 +17,7 @@ psutil
 requests
 rich
 dnspython
-yt-dlp==2021.11.10.1
+yt-dlp
 tgcrypto
 gitpython
 heroku3
